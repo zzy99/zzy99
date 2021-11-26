@@ -1,7 +1,7 @@
 ### 你好，我是朱政烨
 
 #### kaggle
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zzy990106/competition)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zzy990106/competition/light)
 
 #### github
 <a href="https://github.com/zzy99">
