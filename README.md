@@ -1,4 +1,3 @@
-### 你好，我是朱政烨
 
 #### kaggle
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zzy990106/competition/light)
